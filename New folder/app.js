@@ -1,133 +1,141 @@
-// **********************Chapter no:1 ********Q1*********************
+// **********************Chapter no:1 ********Q1(1)*********************
 
-// alert("Welcome to JS");
+// alert("Bilal");
+
+// **********************Chapter no:1 ********Q1(2)*********************
+
+// alert("Qamar");
+
+
+// **********************Chapter no:1 ********Q1(3)*********************
+
+// alert("bilalqamardeen@gmail.com");
+
+// **********************Chapter no:1 ********Q1(4)*********************
+
+// alert("03347291977");
+
+
+
+// **********************Chapter no:1 ********Q1(5)*********************
+
+
+// alert("Password");
 
 // **********************Chapter no:1 ********Q2*********************
 
-// alert("Error! please enter a valid password");
 
+// alert("You're learning JavaScript!");
 
-// **********************Chapter no:1 ********Q3*********************
+// **********************Chapter no:1 **********Q3*******************
 
-// alert("Welcome to JS land.....\n Happy coding");
-
-// **********************Chapter no:1 ********Q4*********************
-
-// alert("Welcome to JS land....");
-// alert("Happy coding");
-
-
-// **********************Chapter no:1 ********Q5*********************
-
-
-// console.log("hello i will run JS");
+// var msg = "Hello World"
+// alert(msg);
 
 // **********************Chapter no:2 ********Q1*********************
 
-// var username;
+// var camelCase = "Hello World"
+// console.log(camelCase);
 
 
 // **********************Chapter no:2 ********Q2*********************
 
-// var myName = "Bilal Qamar"
-// console.log(myName);
+// var userName = "Hello User"
+/*var statement = "Jawan Pakistan"
+alert(statement);*/
 
 // **********************Chapter no:2 ********Q3*********************
 
-// var message = "hello world"
-// console.log(message)
+// var teamName = "Students"
+// alert(teamName)
 
 // **********************Chapter no:2 ********Q4*********************
 
-// var studentName = "abc";
-// var studentAge = "20";
-// var studentQualification = "Web and Mobile App";
+// var bestMan = "Charlie"
+// var var2 = bestMan + "is a Good Man"
+// alert(var2)
 
-// alert(studentName);
+// **********************Chapter no:3 ********Q1*********************
 
-// alert(studentAge);
+// var caseQty = "144"
 
-// alert(studentQualification);
+// **********************Chapter no:3 ********Q2*********************
 
+// alert(caseQty)
 
-// **********************Chapter no:2 ********Q5*********************
+// **********************Chapter no:3 ********Q3*********************
 
+// var num = "9"
 
-// var pizza = "Pizza \n Pizz \n Piz \n Pi \n P"
-// alert(pizza)
+// **********************Chapter no:3 ********Q4*********************
 
-// **********************Chapter no:2 ********Q6*********************
+// var num1 = "4"
+// var num2 = "5"
+// alert(num1+num2)
 
-// var email = "abc@abc.com";
-// alert("my email adress is this  " + email);
+// **********************Chapter no:3 ********Q5*********************
 
-// **********************Chapter no:2 ********Q7*********************
-
-
-// var book = "The Smart Way to learn JavaScript";
-// alert("I am trying to leaarn from the book " + book)
-
-// **********************Chapter no:2 ********Q8*********************
-
-
-// document.write("  Yah ! I can write html content through JavaScript");
+// var merchTotal = 100;
+// var shippingCharge = 10;
+// var orderTotal = merchTotal + shippingCharge;
+// alert(orderTotal)
 
 
-// **********************Chapter no:2 ********Q9*********************
+// **********************Chapter no:3 ********Q6*********************
+
+// var number1 = 10
+// var number2 = 20
+// alert(number1 + number2)
+
+// **********************Chapter no:4 ********Q1*********************
+// var productCost = 3.45;
 
 
-// **********************Chapter no:2 ********Q10*********************
+// **********************Chapter no:4 ********Q2*********************
 
-// var age = 20
-// alert ("I am " + age + "  year old")
+// var nameOfBand = ""
 
-// **********************Chapter no:2 ********Q11*********************
+// **********************Chapter no:4 ********Q3*********************
 
-// var timer = 14;
-// alert("you have visited this site " + timer + " times")
+// var numberOne = 40
 
-// **********************Chapter no:2 ********Q12*********************
+// **********************Chapter no:4 ********Q4*********************
 
-
-// var birthYear=20;
-// document.write("My birth year is " + birthYear + "  <br>" +
-// "Data type of my declare variable is " + typeof(birthYear));
-
-// **********************Chapter no:2 ********Q13*********************
-
-// var visitorName = prompt("Enter your name");
-// var product ="T - shirt (s)";
-// var qty = +prompt("Enter Quantity");
-
-// document.write(visitorName + " ordered  " + qty +  product +"   on XYZ clothing Store ");
+// var firstName = "Bilal"
+// var secondName = "Qamar"
+// alert(firstName + secondName);
 
 // **********************Chapter no:5 ********Q1*********************
 
-// var num1 = 3;
-// var num2 = 5;
-// var add = num1 + num2;
+// var remainder = 10 % 3; 
 
-// document.write("Sum of " + num1 + "  and  " +  num2 + " is "+  add)
 
 
 // **********************Chapter no:5 ********Q2*********************
 
 
-// Subtraction
+// var num = 20 % 6;
+// alert(num)
 
+// **********************Chapter no:5 ********Q3*********************
 
-// var num1 = 3;
-// var num2 = 5;
-// var sub = num1 - num2;
+// var largeNum = 1000*2000
+// console.log(largeNum)
 
-// document.write("Subtract of " + num1 + "  and  " +  num2 + " is "+  sub);
+// **********************Chapter no:5 ********Q4*********************
 
+// var subtract1 = 100
+// var subtract2 = 50
+// console.log(subtract1 - subtract2)
 
-// var num1 = 3;
-// var num2 = 5;
-// var multiply = num1 * num2;
+// **********************Chapter no:5 ********Q5*********************
 
-// document.write("Sum of " + num1 + "  and  " +  num2 + " is "+  multiply)
+// var math1 = 10
+// var math2 = 2
+// console.log(math1 % math2)
 
+// **********************Chapter no:5 ********Q6*********************
 
-
+// var multiply1 = 23
+// var multiply2 = 2
+// console.log(multiply1*multiply2)
